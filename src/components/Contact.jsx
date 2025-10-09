@@ -15,7 +15,7 @@ const Contact = () => {
   const [error, setError] = useState('');
 
   // GANTI DENGAN ENDPOINT FORMSPREE KAMU
-  const FORMSPREE_ENDPOINT = 'https://formspree.io/f/xxxxxxxy'; // ← GANTI INI!
+  const FORMSPREE_ENDPOINT = 'https://formspree.io/f/mqaydjwd'; // ← GANTI INI!
 
   const handleSubmit = async (e) => {
     e.preventDefault();
