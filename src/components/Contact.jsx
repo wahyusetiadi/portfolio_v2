@@ -58,21 +58,21 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email",
-      content: "wahyu.setiadi@email.com",
-      link: "mailto:wahyu.setiadi@email.com",
+      content: "wahyusetiadi330@email.com",
+      link: "mailto:wahyusetiadi330@email.com",
       description: "Kirim email kapan saja"
     },
     {
       icon: Phone,
       title: "Phone",
-      content: "+62 812-3456-7890",
-      link: "tel:+6281234567890",
+      content: "+62 899-5666-700",
+      link: "tel:+628995666700",
       description: "Mari ngobrol sebentar"
     },
     {
       icon: MapPin,
       title: "Location",
-      content: "Jakarta, Indonesia",
+      content: "Kuala Kapuas, Indonesia",
       link: "#",
       description: "Tersedia untuk kerja remote"
     }
